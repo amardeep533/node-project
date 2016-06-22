@@ -1,0 +1,14 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "sample app",
+  "main": "index.js",
+  "scripts": {
+    "test": "amar"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "amardeep",
+  "license": "UNLICENSED"
+}
